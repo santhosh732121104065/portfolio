@@ -1,0 +1,38 @@
+body{
+    .poppins-semibold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+      }
+      
+      .poppins-bold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      .poppins-extrabold {
+        font-family: "Poppins", sans-serif;
+        font-weight: 800;
+        font-style: normal;
+      }
+      
+      .poppins-black {
+        font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        font-style: normal;
+      }
+      
+}
+.banner{
+    background-image: url(/image/top-view-table-art-creative-graphic-designer-with-copy-space-center-graphic-design-purpose_146508-704.avif);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px;
+}
+
+.my-image{
+    padding-left: ;
+    box-shadow:12px 8px 20px rgb(7, 7, 7);
+}
